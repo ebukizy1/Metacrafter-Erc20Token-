@@ -54,4 +54,4 @@ ADDRESS_ZERO_ERROR
 
 Placeholder error; not explicitly used in the current implementation.
 Usage
-To use this contract, deploy it to the Ethereum blockchain, providing the desired name and symbol during deployment. After deployment, the owner can mint tokens and manage the token supply.
+To use this contract, deploy it to the Ethereum blockchain, providing the desired name and symbol during deployment. After deployment, the owner can mint tokens and manage the token supply.# Metacrafter-Erc20Token-
